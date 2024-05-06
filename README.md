@@ -13,6 +13,8 @@ In this project, real-world [NFT data](https://github.com/Debabrata-palit/Crypto
 That data set is a sales data set of one of the most famous NFT projects, Cryptopunks. Meaning each row of the data set represents a sale of an NFT. The data includes sales from January 1st, 2018 to December 31st, 2021. The table has several columns including the buyer address, the ETH price, the price in U.S. dollars, the seller’s address, the date, the time, the NFT ID, the transaction hash, and the NFT name.
 You might not understand all the jargon around the NFT space, but you should be able to infer enough to answer the following prompts.
 
+**Tool Used:** MySQL
+
 ### Question 1
 > How many sales occurred during this time period? 
 ### Question 2
